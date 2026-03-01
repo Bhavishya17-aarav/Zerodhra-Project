@@ -1,0 +1,43 @@
+.nav-link {
+  margin-left: 40px;
+}
+
+.nav-footer {
+  text-decoration: none;
+}
+
+.footer-contact{
+  display: flex;
+  justify-content: space-evenly;
+  align-content:center;
+  list-style: none;
+}
+
+#supportHero{
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+
+#supportHero a{
+  color: white;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 150px;
+}
+
+#supportHero input{
+  padding: 20px 50px;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+  margin-bottom: 15px;
+}
+
+.support-link a {
+   margin-left: 15px;
+}
+
